@@ -1,10 +1,13 @@
 # 👋 Hola, Soy Alexis Bernal
-- React Native Mobile Developer Junior
+- Full Stack Developer especializado en PHP y React
+- React Native Mobile Developer
   
 ## 🌱 Actualmente estoy aprendiendo sobre
 - Arquitectura de software y patrones de diseño
   
 ## 💻 Habilidades
-- Lenguajes de programacion: JavaScript, JSX, HTML/CSS
-- Frameworks: React, Angular
+- Lenguajes de programación: JavaScript, JSX, TSX, HTML/CSS, PHP
+- Frameworks: React, Angular, Laravel
 - Desarrollo Backend: Node.js, Firebase
+- Otras herramientas: Alpine.js
+  
