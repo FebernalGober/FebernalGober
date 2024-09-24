@@ -1,6 +1,6 @@
 # 👋 Hola, Soy Alexis Bernal
 - Full Stack Developer especializado en PHP y React
-- React Native Mobile Developer
+- React and React Native Developer
   
 ## 🌱 Actualmente estoy aprendiendo sobre
 - Arquitectura de software y patrones de diseño
